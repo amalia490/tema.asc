@@ -1,3 +1,6 @@
+#The project consists in the easier implementation of a storage device management component
+
+
 # Checker for Computer Systems Architecture Project
 
 A Python script designed to test a predefined list of executables for common exercises in Computer Systems Architecture.
